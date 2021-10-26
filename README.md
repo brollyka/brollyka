@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://badgr.com/backpack/badges/6177007045a148214e3516fc">
+![](https://badgr.com/backpack/badges/6177007045a148214e3516fc)
