@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 <!--END_SECTION:badges-->
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href="https://www.linkedin.com/in/brollyka/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brollyka" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/brollyka/" target="_blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="brollyka" height="30" width="30" /></a>
 <a href="https://twitter.com/brollyka/" target="_blank"><img align="center" src="https://www.svgrepo.com/show/97434/twitter.svg" alt="brollyka" height="30" width="30" /></a>
